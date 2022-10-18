@@ -1,7 +1,7 @@
 ## Opa! Eu sou o João <3
 
 - 🖥️ Técnico em informática 
-- 📚 Estudando JavaScript e C
+- 📚 Estudando JavaScript, HTML e CSS 
 
 <div align="center">
   <a href="https://linktr.ee/joao.araujoo_">

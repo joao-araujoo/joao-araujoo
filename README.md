@@ -1,4 +1,4 @@
-## Opa! Eu sou o João <3
+<h1>Opa! Eu sou o João <3</h1>
 
 - 🖥️ Técnico em informática 
 - 📚 Estudando JavaScript, HTML e CSS 

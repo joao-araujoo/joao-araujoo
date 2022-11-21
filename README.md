@@ -5,8 +5,8 @@
 ##
 <br>
 <div align="center">  
-  <img height="195px" src="https://github-readme-stats.vercel.app/api?username=joao-araujoo&show_icons=true&count_private=true&hide_border=true&title_color=9400D3&icon_color=9400D3&text_color=c9d1d9&bg_color=0d1117" alt="joao-araujoo github stats"/> 
-  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-araujoo&layout=compact&hide_border=true&title_color=9400D3&text_color=ffffff&bg_color=0d1117" alt="joao-araujoo github stats"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=joao-araujoo&show_icons=true&count_private=true&hide_border=true&title_color=9400D3&icon_color=9400D3&text_color=c9d1d9&bg_color=0d1117" alt="joao-araujoo github stats"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-araujoo&layout=compact&hide_border=true&title_color=9400D3&text_color=ffffff&bg_color=0d1117" alt="joao-araujoo github stats"/>
 </div>
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=joao-araujoo&bg_color=0d1117&color=9400d3&line=9400d3&point=0aff47&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)

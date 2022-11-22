@@ -17,6 +17,8 @@
   <img align="center" alt="Joao-JavaScript" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 </div>
 
+<br>
+
 ##
 <br>
 <div>

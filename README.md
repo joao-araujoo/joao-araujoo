@@ -9,18 +9,16 @@
   <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-araujoo&layout=compact&hide_border=true&title_color=9400D3&text_color=ffffff&bg_color=0d1117" alt="joao-araujoo github stats"/>
 </div>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=joao-araujoo&bg_color=0d1117&color=9400d3&line=9400d3&point=0aff47&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Joao-HTML" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   <img align="center" alt="Joao-CSS" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  <img align="center" alt="Joao-SASS" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"/>
   <img align="center" alt="Joao-JavaScript" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 </div>
 
-<br>
 
 ##
-<br>
+
 <div>
   <a href="https://instagram.com/joao.araujoo_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joao-araujoo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 

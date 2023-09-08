@@ -6,7 +6,7 @@
 <br>
 <br>
 
-<img src="https://skillicons.dev/icons?i=html,css,sass,javascript,python,cs,php,mysql"/>
+<img src="https://skillicons.dev/icons?i=html,css,sass,javascript,typescript,python,cs,php,mysql"/>
 
 ![status](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/status/460168484102602774?simple=true)
 ![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/460168484102602774)

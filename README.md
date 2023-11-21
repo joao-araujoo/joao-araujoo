@@ -6,7 +6,7 @@
 <br>
 <br>
 
-<img src="https://skillicons.dev/icons?i=html,css,sass,javascript,typescript,python,cs,php,mysql"/>
+<img src="https://skillicons.dev/icons?i=html,css,sass,javascript,typescript,git,python,cs,php,mysql"/>
 
 [![wakatime](https://wakatime.com/badge/user/769296d2-a243-41f3-93b0-57fcffd87669.svg)](https://wakatime.com/@769296d2-a243-41f3-93b0-57fcffd87669)
 ![playing](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/460168484102602774)

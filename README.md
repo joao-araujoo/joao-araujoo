@@ -9,5 +9,4 @@
 <img src="https://skillicons.dev/icons?i=html,css,sass,javascript,typescript,git,react,mysql,nodejs,mongodb"/>
 
 [![wakatime](https://wakatime.com/badge/user/769296d2-a243-41f3-93b0-57fcffd87669.svg)](https://wakatime.com/@769296d2-a243-41f3-93b0-57fcffd87669)
-![vscode](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/460168484102602774)
 [![spotify](https://nocache.advaith.workers.dev?url=https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/460168484102602774)](https://dev.discordprofiles.me/openspotify/460168484102602774)

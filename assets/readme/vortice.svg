@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="246" viewBox="0 0 880 246" role="img" aria-label="[01] ~/projetos/vortice">
+<style>
+text{font-family:Inter,Segoe UI,Arial,sans-serif}
+.mono{font-family:ui-monospace,SFMono-Regular,Consolas,monospace}
+.dot{animation:pulse 2.5s ease-in-out infinite;transform-origin:center}
+.cursor{animation:blink 1.1s steps(1) infinite}
+.draw{stroke-dasharray:9 10;animation:move 12s linear infinite}
+.float{animation:float 6s ease-in-out infinite}
+.reveal{animation:fade 1s ease both}
+@keyframes pulse{50%{opacity:.3;transform:scale(.65)}}
+@keyframes blink{50%{opacity:0}}
+@keyframes move{to{stroke-dashoffset:-260}}
+@keyframes float{50%{transform:translateY(-7px)}}
+@keyframes fade{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}
+@media(prefers-reduced-motion:reduce){*{animation:none!important}}
+</style><rect x="0.5" y="0.5" width="879" height="245" rx="18" fill="#101116" stroke="#303139"/>
+<path d="M1 51H879" stroke="#272832"/><text x="30" y="32" font-size="14" class="mono" fill="#A3A5B5">[01] ~/projetos/vortice</text>
+<circle cx="834" cy="27" r="4.5" fill="#C8F64B" class="dot"/><circle cx="850" cy="27" r="4.5" fill="#33343B"/>
+<defs><pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#FFFFFF" stroke-opacity=".035"/></pattern></defs>
+<rect x="1" y="52" width="878" height="193" rx="16" fill="url(#grid)"/>
+<text x="40" y="99" font-size="13" class="mono" fill="#C8F64B" letter-spacing="1.4">DESKTOP APP / OPEN SOURCE</text>
+<text x="37" y="152" font-size="52" font-weight="800" fill="#F2F0EA" letter-spacing="-1.8">Vórtice</text>
+<text x="40" y="186" font-size="15.5" fill="#B9B8C4">Automação para fluxos de desenvolvimento com IA.</text>
+<text x="40" y="218" font-size="12" class="mono" fill="#8C8D9B">VER PROJETO  ↗</text>
+<rect x="544" y="70" width="285" height="155" rx="13" fill="#1D1E27" stroke="#42414E"/>
+
+<text x="562" y="96" font-size="11" fill="#9B9AA9" class="mono">fluxo de desenvolvimento</text>
+<rect x="566" y="113" width="78" height="43" rx="7" fill="#292A3A" stroke="#8B63F6"/>
+<rect x="678" y="113" width="128" height="43" rx="7" fill="#292A3A" stroke="#566071"/>
+<text x="580" y="139" font-size="11" fill="#E7E6EA">Planejar</text><text x="695" y="139" font-size="11" fill="#E7E6EA">Executar</text>
+<path d="M645 134H674" stroke="#C8F64B" stroke-width="2" class="draw"/>
+<path d="M737 156V175H690" stroke="#C8F64B" stroke-width="2" fill="none" class="draw"/>
+<rect x="566" y="176" width="240" height="31" rx="6" fill="#262839"/>
+<circle cx="583" cy="192" r="5" fill="#C8F64B" class="dot"/>
+<text x="597" y="197" font-size="11" fill="#D8DAE1" class="mono">pronto para revisão</text>
+
+
+</svg>

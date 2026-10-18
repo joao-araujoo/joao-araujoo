@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="216" viewBox="0 0 880 216" role="img" aria-label="Stack utilizada em desenvolvimento de software"><style>text{font-family:Inter,Segoe UI,Arial,sans-serif}.mono{font-family:ui-monospace,Consolas,monospace}.line{stroke-dasharray:13 11;animation:move 14s linear infinite}@keyframes move{to{stroke-dashoffset:-300}}@media(prefers-reduced-motion:reduce){*{animation:none!important}}</style>
+<rect x=".5" y=".5" width="879" height="215" rx="18" fill="#101116" stroke="#303139"/><path d="M1 51H879" stroke="#272832"/>
+<text x="30" y="32" font-size="14" class="mono" fill="#A3A5B5">[04] ~/ferramentas</text>
+<text x="850" y="31" font-size="12" class="mono" fill="#8B8C99" text-anchor="end">STACK SELECIONADA</text>
+<rect x="30" y="76" width="388" height="53" rx="10" fill="#1D1E28" stroke="#343541"/>
+<text x="46" y="98" font-size="11.5" fill="#C8F64B" class="mono">FRONTEND</text><text x="46" y="117" font-size="14" fill="#EBEAF0">React · TypeScript · JavaScript</text>
+<rect x="461" y="76" width="389" height="53" rx="10" fill="#1D1E28" stroke="#343541"/>
+<text x="478" y="98" font-size="11.5" fill="#AA82FF" class="mono">BACKEND</text><text x="478" y="117" font-size="14" fill="#EBEAF0">Node.js · PHP · APIs</text>
+<rect x="30" y="145" width="388" height="51" rx="10" fill="#1D1E28" stroke="#343541"/>
+<text x="46" y="166" font-size="11.5" fill="#AA82FF" class="mono">DADOS</text><text x="46" y="184" font-size="14" fill="#EBEAF0">PostgreSQL · MySQL · Neon</text>
+<rect x="461" y="145" width="389" height="51" rx="10" fill="#1D1E28" stroke="#343541"/>
+<text x="478" y="166" font-size="11.5" fill="#C8F64B" class="mono">PRODUTOS &amp; APPS</text><text x="478" y="184" font-size="14" fill="#EBEAF0">Tauri · React Native · Expo</text></svg>
